@@ -1,0 +1,35 @@
+{
+  "baseURL": "https://secure.grenadaco-opbank.com/",
+  "share": {
+    "enabled": true,
+    "title": "share this app",
+    "url": "http://www.windowsphone.com/en-us/store/app/hive/0121e538-7e54-4fb4-b915-17d9cad684ef",
+    "message": "Hey, I thought you want want to check out this app to manage your Grenada Co-operative Bank account on the go {url}"
+  },
+  "appBar": {
+    "enabled": true,
+    "buttons": [
+      {
+        "label": "Home",
+        "icon": "home",
+        "iconUrl": "",
+        "action": "home"
+      },
+      {
+        "label": "refresh",
+        "icon": "refresh",
+        "iconUrl": "",
+        "action": "refresh"
+      }
+    ]
+  },
+  "settings": {
+    "enabled": true,
+    "privacyUrl": "",
+    "title": "About",
+    "header": "Web App Template",
+    "HTMLText1": "The Web App Template deliver great mobile websites to your Windows Phone. Get convenient access to all of the site&apos;s mobile web features directly from your app list, plus the ability to pin a tile to your start screen.",
+    "HTMLText2": "",
+    "HTMLText3": ""
+  }
+}
